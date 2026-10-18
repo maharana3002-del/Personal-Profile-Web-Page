@@ -24,4 +24,3 @@ git branch -M main
 git remote add origin https://github.com/maharana3002-del/Personal-Profile-Web-Page
 git push -u origin main
 ```
-Replace the URL with your real GitHub repository URL.
