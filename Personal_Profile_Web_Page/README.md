@@ -21,7 +21,7 @@ git commit -m "Create personal profile web page"
 Create an empty repository on GitHub (do not add a README if you already have these files), then use the repository URL shown by GitHub:
 ```bash
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git remote add origin https://github.com/maharana3002-del/Personal-Profile-Web-Page
 git push -u origin main
 ```
 Replace the URL with your real GitHub repository URL.
